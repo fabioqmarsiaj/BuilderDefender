@@ -14,3 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameString: Wood Harverster
   prefab: {fileID: 7702672144178734654, guid: e671dacf847804178a67bebb7c5fab9a, type: 3}
+  resourceGeneratorData:
+    timerMax: 0.5
+    resourceType: {fileID: 11400000, guid: 9385be2fe41f34f1eb7588f8ad50066d, type: 2}
